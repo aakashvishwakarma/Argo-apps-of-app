@@ -1,7 +1,8 @@
 # Argo-apps-of-app
 
-# Create an Application in ArgoCD UI ( USing either UI console or CLI)
+# Create an Application in ArgoCD UI ( Using either UI console or CLI)
     Here i m using UI and Edited it using below YML:
+    # ArgoCD Application YML
     apiVersion: argoproj.io/v1alpha1
     kind: Application
     metadata:
